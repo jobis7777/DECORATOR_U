@@ -1,0 +1,5 @@
+E:\PATRONES\DECORATOR\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+E:\PATRONES\DECORATOR\Source\DonkeyKong_USFX\Arquitecto.h
+E:\PATRONES\DECORATOR\Source\DonkeyKong_USFX\BuilderNiveles.h
+E:\PATRONES\DECORATOR\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderNiveles.generated.h
+E:\PATRONES\DECORATOR\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Arquitecto.generated.h

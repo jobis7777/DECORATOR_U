@@ -1,0 +1,2 @@
+E:\PATRONES\DECORATOR\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+E:\PATRONES\DECORATOR\Source\DonkeyKong_USFX\DonkeyKong_USFX.h
